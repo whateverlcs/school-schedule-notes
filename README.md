@@ -7,13 +7,13 @@
 <p align="center">
   <a href="https://github.com/whateverlcs/school-schedule-notes/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/npm/l/react?color=yellow" /></a>
   
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/whateverlcs/easy-bank?color=yellow">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/whateverlcs/school-schedule-notes?color=yellow">
   
-  <img alt="GitHub Size Repository" src="https://img.shields.io/github/repo-size/whateverlcs/easy-bank?color=yellow">
+  <img alt="GitHub Size Repository" src="https://img.shields.io/github/repo-size/whateverlcs/school-schedule-notes?color=yellow">
     
-  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/whateverlcs/easy-bank?color=yellow">
+  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/whateverlcs/school-schedule-notes?color=yellow">
   
-  <img alt="GitHub Stars Repository" src="https://img.shields.io/github/stars/whateverlcs/easy-bank?style=social">
+  <img alt="GitHub Stars Repository" src="https://img.shields.io/github/stars/whateverlcs/school-schedule-notes?style=social">
 </p>
 
 📋 School-Notes é uma aplicação mobile construída durante a disciplina de Android, ministrada por Jason Sobreiro na [Universidade Positivo](https://www.up.edu.br/ "Site da Universidade Positivo").
